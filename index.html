@@ -46,7 +46,7 @@ const grid=document.getElementById('grid'), count=document.getElementById('count
 let favOnly=false; const favs=new Set(JSON.parse(localStorage.getItem('pepites-favs')||'[]'));
 function render(){
  grid.innerHTML='';
- const filtered=items.map((x,i)=>({x,i})).filter(({i})=>(!favOnly||favs.has(i)));
+ const filtered=items.map((x,i)=>({x,i})).sort((a,b)=>Number(b.x.id)-Number(a.x.id)).filter(({i})=>(!favOnly||favs.has(i)));
  count.textContent=`${filtered.length} pépite${filtered.length>1?'s':''} affichée${filtered.length>1?'s':''}`;
  if(!filtered.length){grid.innerHTML='<div class="empty">Aucune pépite trouvée.</div>'; return;}
  filtered.forEach(({x,i})=>{const c=document.createElement('article');c.className='card';c.dataset.i=i;c.innerHTML=`<div class="num">Pépite #${String(x.id).padStart(2,'0')}</div><button class="fav ${favs.has(i)?'on':''}" aria-label="Favori">${favs.has(i)?'★':'☆'}</button><h2>${escapeHtml(x.titre)}</h2><div class="quote">“${escapeHtml(x.texte)}”</div>`; c.querySelector('.fav').onclick=()=>{favs.has(i)?favs.delete(i):favs.add(i);localStorage.setItem('pepites-favs',JSON.stringify([...favs]));render()};grid.appendChild(c)});
