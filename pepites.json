@@ -1,47 +1,232 @@
 [
-  {"id":1,"titre":"Chatte j’ai pété","texte":"c'est bon j'ai demandé à chatte j'ai pété j'ai eu ma réponse elle est plus rapide que vous"},
-  {"id":2,"titre":"Pas un sous-traitant pointeur","texte":"un agent de free , je ne veux pas un sous-traitant pointeur !"},
-  {"id":3,"titre":"Des solutions concrètes","texte":"Avez vous des solutions concrètes ou pouvez vous passer pour une assistance ?"},
-  {"id":4,"titre":"En plus d’une ligne","texte":"Pourriez-vous svp répondre avec professionnalisme et pédagogie svp, c'est-à-dire en plus d'une ligne."},
-  {"id":5,"titre":"La Freebox explosive","texte":"Bonjour, je vous appelle parce que ma Freebox TV a explosé, enfin explosé."},
-  {"id":6,"titre":"Le retour à l’envoyeur","texte":"Afin d’éviter toute confusion, je vous prie d’améliorer votre espace client et de réunir les éléments de plusieurs lignes dans un seul et même espace client. Ainsi vous éviterez à vos clients de jongler avec plusieurs espaces sans le vouloir et vous aurez donc certainement un meilleur suivi."},
-  {"id":7,"titre":"Comme c’est bizarre","texte":"Vous avez dit bizarre, comme c’est bizarre (Louis Jouvet face à Michel Simon dans le film Drôle de drame (1937))"},
-  {"id":8,"titre":"Des dominos 5G","texte":"Nous avons besoin de travailler et ne pouvons pas… Donnez-nous au moins des dominos 5G avec data…"},
-  {"id":9,"titre":"Merci Free pour la baise","texte":"Ha là je comprend mieux. Votre collègue Alan n’était pas très clair.\nJe me ferais pas baisé la prochaine fois.\nDe toute façon je ne prendrais plus d’abonnement à d’autres chaînes.\nMerci Free pour la baise."},
-  {"id":10,"titre":"Technicien spécialisé en télécommande","texte":"L’abonné demande l’intervention d’un technicien pour réparer une télécommande de Freebox qui ne s’allume pas après avoir été mouillée par son petit-fils."},
-  {"id":11,"titre":"Le technicien mystérieux","texte":"Quand on se rend chez quelqu’un, quelqu’en soit les raisons on retire ses lunettes de soleil.\nJ’ai cru un moment qu’il était aveugle mais j’ai constaté qu’il n’en n’était rien.\nPeut-être est-ce son allure générale mais sa façon de se présenter et sa démarche ne me semble pas adéquate à la situation.\nCeci dit c’est un excellent technicien.\nDonc merci."},
-  {"id":12,"titre":"Le service client trop professionnel","texte":"L’abonné demande à être appelé pour résoudre son problème et refuse la communication par mail, suggérant de changer de boulot si le service n’est pas professionnel."},
-  {"id":13,"titre":"Conseiller et personal shopper","texte":"Par contre pourriez-vous trouver pour moi sur Amazon ou sur Fnac, un répéteur qui sera compatible avec le Wi-Fi 6 Free et qu’il soit filaire et qui fonctionne par Wi-Fi en même temps ? Est-ce que c’est possible de me rendre ce service ?"},
-  {"id":14,"titre":"Le dossier matrimonial","texte":"Je voudrais régulariser ma femme. Merci."},
-  {"id":15,"titre":"Superbe comsaiyere","texte":"Superbe comsaiyere bien sainpatic"},
-  {"id":16,"titre":"400 jours sans Internet","texte":"J'appelle pour mon père concernant sa box Révolution. Ça fait maintenant 400 jours qu'il n'a plus d'internet, qu'il n'a plus de télévision, rien du tout. Donc j'essaye désespérément de vous joindre. Voilà, bonne journée."},
-  {"id":17,"titre":"La Freebox va brûler","texte":"Ta Freebox ça sert à rien.\nJusqu'à la fin du mois j'arrête tout.\nTa Freebox je la brûle, jamais sur YouTube surtout.\nC'est la chaleur qui m'a rendu dingue. Et là vous me rendez dingue aussi s'il vous plaît ? Non."},
-  {"id":18,"titre":"Google sur la télé","texte":"Bonjour Comment accéder à un moteur de recherche internet sur mon téléviseur"},
-  {"id":19,"titre":"L’entretien annuel","texte":"Chez Free, je n'avais jamais eu le moindre problème jusqu'à ce jour. Vous n'êtes clairement pas qualifié pour ce poste, je suis extrêmement mécontent."},
-  {"id":20,"titre":"La formation continue","texte":"Je vous invite à apprendre votre métier en lisant ce lien."},
-  {"id":21,"titre":"La caravane sans Wi-Fi","texte":"Bonjour, Je souhaite résilier mon abonnement car je déménage dans une habitation où je n’ai pas accès à la wifi (caravane)."},
-  {"id":22,"titre":"Le pépéteur Wi-Fi","texte":"Bonsoir gros problème de réseau dans les chambres malgré la présence d’un pépéteur"},
-  {"id":23,"titre":"Bonne soirée quand même","texte":"J’en ai marre de vous .... Bonne soiree free la grosse merde"},
-  {"id":24,"titre":"Le futur prix Goncourt","texte":"On peut commencer écrire le roman \"Attendre Free deux mois: histoire d'un déménagement\" avec vous comme coauteur?"},
-  {"id":25,"titre":"La théorie du Mougeon","texte":"Comme à plusieurs reprise Free à démontrer qu’un client historique était un Mougeon captif que l’on tond et que l’on plume…\n\nPlusieurs personnes ont attiré mon attention en me disant que si Free ouvrait enfin le robinet des migrations aux Mougeons captifs, cela était pour les empêcher de venir réclamer la future Freebox V9 […] réservée exclusivement aux futurs Mougeons.\n\nÀ vous de démontrer que vous respectez vos engagements et ne retiriez pas une migration afin de satisfaire la captation d’un nouveau mougeon au détriment d’un Mougeon historique."},
-  {"id":26,"titre":"Ça a marché tte seule","texte":"Bsr La Free ne marche pas Pas de chaînes Aucune image????? Merci\n\nDésolée ça a marché tte seule Merci"},
-  {"id":27,"titre":"Batman, conseiller de proximité","texte":"Bonjour, j’ai reçu 4 appel masqué cette nuit, j’aimerais savoir qui est ce ? Merci de votre réponse\n\nRéponse : Surement Batman, la lutte contre le crime n’a pas d’heure."},
-  {"id":28,"titre":"Vous êtes mort ou quoi ?","texte":"17:36 — Vous voulez pas répondre aller vous faire foutre vous êtes de voleur [...]\n17:44 — Je veux savoir vous êtes mort ou vous voulez pas répondre Free c’est la merde\n17:45 — Pourquoi vous me appelle pas\n17:47 — Pourquoi vous me appeler pas vous êtes mort ou quoi [...]\n17:52 — Vous êtes un connard je demande à vous parler [...]"},
-  {"id":29,"titre":"Deliveroo, service technique Free","texte":"Le cas étant complexe, pouvez-vous s’il vous plaît transférer ma réclamation à un spécialiste qui est en contact avec le back-office AMAZON/DELIVEROO ?"},
-  {"id":30,"titre":"L’entretien annuel, deuxième édition","texte":"j espere que vous serez plus efficace dans votre journée de travail avec les autres clients"},
-  {"id":31,"titre":"Ultimatum : 15 minutes","texte":"Bonjour Pourriez vous svp restaurer la télé Merci\n\nConseiller : Je vois un défaut de paiement sur votre facture, vos services ont donc été coupés.\n\nVotre service est nul donc si je n’ai pas de nouvelles d’ici 15 minutes, je retourne chez Orange. C’est inadmissible d’attendre autant."},
-  {"id":32,"titre":"La précision absolue","texte":"forfait etranger\n\nConseiller : Pouvez vous me donner plus de détails sur votre demande ?\n\nOui"},
-  {"id":33,"titre":"L’allergie professionnelle","texte":"Je suis allergique à l’incompétence."},
-  {"id":34,"titre":"Le Pieux","texte":"Je suis actuellement au Pieux 50340"},
-  {"id":35,"titre":"On était partis pour parler de la Freebox","texte":"Dites moi SVP si c'est intentionnellement que vous ne m'avez pas coupé l'accès aux chaines de Free, la possibilité d'enregistrer des émissions, notamment les visites de Macron qui a des casseroles au cul, et des films, jusqu'à hier. Mais ça c'est pas grave. Mon épouse a accès à internet sur son portable -Free mobile; comme ça elle ne m'engueule pas trop si j'ai des retards de paiement; elle change juste de lunette pour voir de près; elle est presbyte.\n\nSi c'est oui, je vous réserve une surprise.\n\nAllez Toulouse, ce soir au stade de France. Et ne me coupez pas l'électricité à 49.3 (49 mns et 3 secondes) comme va le faire la CGT pour Macron qui va lui faire broyer du noir ..... Vivement la retraite à 60 ans, pas pour moi (j'ai 70 ans et suis à la retraite depuis 5 ans après 45 ans d'activité dans le public et le privé) mais pour mes filles.\n\nDans l'attente de votre réponse."},
-  {"id":36,"titre":"Photographe Free","texte":"Autorisation appareil photo"},
-  {"id":37,"titre":"Le Wi-Fi… sans fil","texte":"Je voudrais un wifi sans fil le temps que le problème puisse être résolu. Merci de faire le nécessaire."},
-  {"id":38,"titre":"Louis XIV du SAV","texte":"Donc ne soyons pas plus royaliste que le roi!!"},
-  {"id":39,"titre":"Houston, nous avons un problème","texte":"Nous sommes en 2023. Savez-vous que des personnes font plusieurs fois le tour de la terre par jour en impesanteur sans jamais perdre la connexion avec la terre ? Et ils sont payés pour ça contrairement à moi qui désespère qu'on lui ressoude des fils ? Franchement..."},
-  {"id":40,"titre":"Remerciement nuancé","texte":"Je te dit pas merci 👍👍👍 voleur"},
-  {"id":41,"titre":"Toutes les hypothèses sont envisagées","texte":"L’abonné signale un problème de son sur toutes les chaînes de sa télévision après l’allumage. Il a essayé de résoudre le problème en éteignant et en remettant en route, et demande si cela peut provenir du réseau, de la chaleur, de l’éclipse ou d’une erreur de sa part."},
-  {"id":42,"titre":"Alerte bien","texte":"Plus internet alors que j’ai déjà eu un mois de coupure cette année alert bien vous faire enculer bande d’incapable"},
-  {"id":43,"titre":"Le réseau sur le kiki de travaille","texte":"Conseiller : Pourriez-vous me dire à quel(s) endroit(s) vous rencontrez ces problèmes de réseau mobile ?\n\nSur mon kiki de travaille\nVal de fontenay"},
-  {"id":44,"titre":"Planning très chargé","texte":"je travail dans la cocaïne je serai chez moi a 17 h 30"},
-  {"id":45,"titre":"La ligne écrasée politiquement","texte":"Bonjour, j’ai reçu un mail de M. Mélenchon qui m’a écrasé ma ligne et il demande auprès d’un autre référateur alors ce n’est pas le cas donc merci de ne pas écraser"}
+  {
+    "id": 1,
+    "titre": "Chatte j’ai pété",
+    "texte": "c'est bon j'ai demandé à chatte j'ai pété j'ai eu ma réponse elle est plus rapide que vous"
+  },
+  {
+    "id": 2,
+    "titre": "Pas un sous-traitant pointeur",
+    "texte": "un agent de free , je ne veux pas un sous-traitant pointeur !"
+  },
+  {
+    "id": 3,
+    "titre": "Des solutions concrètes",
+    "texte": "Avez vous des solutions concrètes ou pouvez vous passer pour une assistance ?"
+  },
+  {
+    "id": 4,
+    "titre": "En plus d’une ligne",
+    "texte": "Pourriez-vous svp répondre avec professionnalisme et pédagogie svp, c'est-à-dire en plus d'une ligne."
+  },
+  {
+    "id": 5,
+    "titre": "La Freebox explosive",
+    "texte": "Bonjour, je vous appelle parce que ma Freebox TV a explosé, enfin explosé."
+  },
+  {
+    "id": 6,
+    "titre": "Le retour à l’envoyeur",
+    "texte": "Afin d’éviter toute confusion, je vous prie d’améliorer votre espace client et de réunir les éléments de plusieurs lignes dans un seul et même espace client. Ainsi vous éviterez à vos clients de jongler avec plusieurs espaces sans le vouloir et vous aurez donc certainement un meilleur suivi."
+  },
+  {
+    "id": 7,
+    "titre": "Comme c’est bizarre",
+    "texte": "Vous avez dit bizarre, comme c’est bizarre (Louis Jouvet face à Michel Simon dans le film Drôle de drame (1937))"
+  },
+  {
+    "id": 8,
+    "titre": "Des dominos 5G",
+    "texte": "Nous avons besoin de travailler et ne pouvons pas… Donnez-nous au moins des dominos 5G avec data…"
+  },
+  {
+    "id": 9,
+    "titre": "Merci Free pour la baise",
+    "texte": "Ha là je comprend mieux. Votre collègue Alan n’était pas très clair.\nJe me ferais pas baisé la prochaine fois.\nDe toute façon je ne prendrais plus d’abonnement à d’autres chaînes.\nMerci Free pour la baise."
+  },
+  {
+    "id": 10,
+    "titre": "Technicien spécialisé en télécommande",
+    "texte": "L’abonné demande l’intervention d’un technicien pour réparer une télécommande de Freebox qui ne s’allume pas après avoir été mouillée par son petit-fils."
+  },
+  {
+    "id": 11,
+    "titre": "Le technicien mystérieux",
+    "texte": "Quand on se rend chez quelqu’un, quelqu’en soit les raisons on retire ses lunettes de soleil.\nJ’ai cru un moment qu’il était aveugle mais j’ai constaté qu’il n’en n’était rien.\nPeut-être est-ce son allure générale mais sa façon de se présenter et sa démarche ne me semble pas adéquate à la situation.\nCeci dit c’est un excellent technicien.\nDonc merci."
+  },
+  {
+    "id": 12,
+    "titre": "Le service client trop professionnel",
+    "texte": "L’abonné demande à être appelé pour résoudre son problème et refuse la communication par mail, suggérant de changer de boulot si le service n’est pas professionnel."
+  },
+  {
+    "id": 13,
+    "titre": "Conseiller et personal shopper",
+    "texte": "Par contre pourriez-vous trouver pour moi sur Amazon ou sur Fnac, un répéteur qui sera compatible avec le Wi-Fi 6 Free et qu’il soit filaire et qui fonctionne par Wi-Fi en même temps ? Est-ce que c’est possible de me rendre ce service ?"
+  },
+  {
+    "id": 14,
+    "titre": "Le dossier matrimonial",
+    "texte": "Je voudrais régulariser ma femme. Merci."
+  },
+  {
+    "id": 15,
+    "titre": "Superbe comsaiyere",
+    "texte": "Superbe comsaiyere bien sainpatic"
+  },
+  {
+    "id": 16,
+    "titre": "400 jours sans Internet",
+    "texte": "J'appelle pour mon père concernant sa box Révolution. Ça fait maintenant 400 jours qu'il n'a plus d'internet, qu'il n'a plus de télévision, rien du tout. Donc j'essaye désespérément de vous joindre. Voilà, bonne journée."
+  },
+  {
+    "id": 17,
+    "titre": "La Freebox va brûler",
+    "texte": "Ta Freebox ça sert à rien.\nJusqu'à la fin du mois j'arrête tout.\nTa Freebox je la brûle, jamais sur YouTube surtout.\nC'est la chaleur qui m'a rendu dingue. Et là vous me rendez dingue aussi s'il vous plaît ? Non."
+  },
+  {
+    "id": 18,
+    "titre": "Google sur la télé",
+    "texte": "Bonjour Comment accéder à un moteur de recherche internet sur mon téléviseur"
+  },
+  {
+    "id": 19,
+    "titre": "L’entretien annuel",
+    "texte": "Chez Free, je n'avais jamais eu le moindre problème jusqu'à ce jour. Vous n'êtes clairement pas qualifié pour ce poste, je suis extrêmement mécontent."
+  },
+  {
+    "id": 20,
+    "titre": "La formation continue",
+    "texte": "Je vous invite à apprendre votre métier en lisant ce lien."
+  },
+  {
+    "id": 21,
+    "titre": "La caravane sans Wi-Fi",
+    "texte": "Bonjour, Je souhaite résilier mon abonnement car je déménage dans une habitation où je n’ai pas accès à la wifi (caravane)."
+  },
+  {
+    "id": 22,
+    "titre": "Le pépéteur Wi-Fi",
+    "texte": "Bonsoir gros problème de réseau dans les chambres malgré la présence d’un pépéteur"
+  },
+  {
+    "id": 23,
+    "titre": "Bonne soirée quand même",
+    "texte": "J’en ai marre de vous .... Bonne soiree free la grosse merde"
+  },
+  {
+    "id": 24,
+    "titre": "Le futur prix Goncourt",
+    "texte": "On peut commencer écrire le roman \"Attendre Free deux mois: histoire d'un déménagement\" avec vous comme coauteur?"
+  },
+  {
+    "id": 25,
+    "titre": "La théorie du Mougeon",
+    "texte": "Comme à plusieurs reprise Free à démontrer qu’un client historique était un Mougeon captif que l’on tond et que l’on plume…\n\nPlusieurs personnes ont attiré mon attention en me disant que si Free ouvrait enfin le robinet des migrations aux Mougeons captifs, cela était pour les empêcher de venir réclamer la future Freebox V9 […] réservée exclusivement aux futurs Mougeons.\n\nÀ vous de démontrer que vous respectez vos engagements et ne retiriez pas une migration afin de satisfaire la captation d’un nouveau mougeon au détriment d’un Mougeon historique."
+  },
+  {
+    "id": 26,
+    "titre": "Ça a marché tte seule",
+    "texte": "Bsr La Free ne marche pas Pas de chaînes Aucune image????? Merci\n\nDésolée ça a marché tte seule Merci"
+  },
+  {
+    "id": 27,
+    "titre": "Batman, conseiller de proximité",
+    "texte": "Bonjour, j’ai reçu 4 appel masqué cette nuit, j’aimerais savoir qui est ce ? Merci de votre réponse\n\nRéponse : Surement Batman, la lutte contre le crime n’a pas d’heure."
+  },
+  {
+    "id": 28,
+    "titre": "Vous êtes mort ou quoi ?",
+    "texte": "17:36 — Vous voulez pas répondre aller vous faire foutre vous êtes de voleur [...]\n17:44 — Je veux savoir vous êtes mort ou vous voulez pas répondre Free c’est la merde\n17:45 — Pourquoi vous me appelle pas\n17:47 — Pourquoi vous me appeler pas vous êtes mort ou quoi [...]\n17:52 — Vous êtes un connard je demande à vous parler [...]"
+  },
+  {
+    "id": 29,
+    "titre": "Deliveroo, service technique Free",
+    "texte": "Le cas étant complexe, pouvez-vous s’il vous plaît transférer ma réclamation à un spécialiste qui est en contact avec le back-office AMAZON/DELIVEROO ?"
+  },
+  {
+    "id": 30,
+    "titre": "L’entretien annuel, deuxième édition",
+    "texte": "j espere que vous serez plus efficace dans votre journée de travail avec les autres clients"
+  },
+  {
+    "id": 31,
+    "titre": "Ultimatum : 15 minutes",
+    "texte": "Bonjour Pourriez vous svp restaurer la télé Merci\n\nConseiller : Je vois un défaut de paiement sur votre facture, vos services ont donc été coupés.\n\nVotre service est nul donc si je n’ai pas de nouvelles d’ici 15 minutes, je retourne chez Orange. C’est inadmissible d’attendre autant."
+  },
+  {
+    "id": 32,
+    "titre": "La précision absolue",
+    "texte": "forfait etranger\n\nConseiller : Pouvez vous me donner plus de détails sur votre demande ?\n\nOui"
+  },
+  {
+    "id": 33,
+    "titre": "L’allergie professionnelle",
+    "texte": "Je suis allergique à l’incompétence."
+  },
+  {
+    "id": 34,
+    "titre": "Le Pieux",
+    "texte": "Je suis actuellement au Pieux 50340"
+  },
+  {
+    "id": 35,
+    "titre": "On était partis pour parler de la Freebox",
+    "texte": "Dites moi SVP si c'est intentionnellement que vous ne m'avez pas coupé l'accès aux chaines de Free, la possibilité d'enregistrer des émissions, notamment les visites de Macron qui a des casseroles au cul, et des films, jusqu'à hier. Mais ça c'est pas grave. Mon épouse a accès à internet sur son portable -Free mobile; comme ça elle ne m'engueule pas trop si j'ai des retards de paiement; elle change juste de lunette pour voir de près; elle est presbyte.\n\nSi c'est oui, je vous réserve une surprise.\n\nAllez Toulouse, ce soir au stade de France. Et ne me coupez pas l'électricité à 49.3 (49 mns et 3 secondes) comme va le faire la CGT pour Macron qui va lui faire broyer du noir ..... Vivement la retraite à 60 ans, pas pour moi (j'ai 70 ans et suis à la retraite depuis 5 ans après 45 ans d'activité dans le public et le privé) mais pour mes filles.\n\nDans l'attente de votre réponse."
+  },
+  {
+    "id": 36,
+    "titre": "Photographe Free",
+    "texte": "Autorisation appareil photo"
+  },
+  {
+    "id": 37,
+    "titre": "Le Wi-Fi… sans fil",
+    "texte": "Je voudrais un wifi sans fil le temps que le problème puisse être résolu. Merci de faire le nécessaire."
+  },
+  {
+    "id": 38,
+    "titre": "Louis XIV du SAV",
+    "texte": "Donc ne soyons pas plus royaliste que le roi!!"
+  },
+  {
+    "id": 39,
+    "titre": "Houston, nous avons un problème",
+    "texte": "Nous sommes en 2023. Savez-vous que des personnes font plusieurs fois le tour de la terre par jour en impesanteur sans jamais perdre la connexion avec la terre ? Et ils sont payés pour ça contrairement à moi qui désespère qu'on lui ressoude des fils ? Franchement..."
+  },
+  {
+    "id": 40,
+    "titre": "Remerciement nuancé",
+    "texte": "Je te dit pas merci 👍👍👍 voleur"
+  },
+  {
+    "id": 41,
+    "titre": "Toutes les hypothèses sont envisagées",
+    "texte": "L’abonné signale un problème de son sur toutes les chaînes de sa télévision après l’allumage. Il a essayé de résoudre le problème en éteignant et en remettant en route, et demande si cela peut provenir du réseau, de la chaleur, de l’éclipse ou d’une erreur de sa part."
+  },
+  {
+    "id": 42,
+    "titre": "Alerte bien",
+    "texte": "Plus internet alors que j’ai déjà eu un mois de coupure cette année alert bien vous faire enculer bande d’incapable"
+  },
+  {
+    "id": 43,
+    "titre": "Le réseau sur le kiki de travaille",
+    "texte": "Conseiller : Pourriez-vous me dire à quel(s) endroit(s) vous rencontrez ces problèmes de réseau mobile ?\n\nSur mon kiki de travaille\nVal de fontenay"
+  },
+  {
+    "id": 44,
+    "titre": "Planning très chargé",
+    "texte": "je travail dans la cocaïne je serai chez moi a 17 h 30"
+  },
+  {
+    "id": 45,
+    "titre": "La ligne écrasée politiquement",
+    "texte": "Bonjour, j’ai reçu un mail de M. Mélenchon qui m’a écrasé ma ligne et il demande auprès d’un autre référateur alors ce n’est pas le cas donc merci de ne pas écraser"
+  },
+  {
+    "id": 46,
+    "titre": "Test",
+    "texte": "Je fais des prouts"
+  }
 ]
