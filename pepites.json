@@ -233,5 +233,10 @@
     "id": 47,
     "titre": "Ne sait pas lire",
     "texte": "Conseiller : C'est noté pour le 7 septembre entre 8/10h\nAbonné : A quelle heure vous venez réparé votre merde"
+  },
+  {
+    "id": 48,
+    "titre": "En wifi vous dites ?",
+    "texte": "Merci est-ce que la connexion en wifi est compatible avec mon offre actuelle de box?"
   }
 ]
