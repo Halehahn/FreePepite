@@ -238,5 +238,10 @@
     "id": 48,
     "titre": "En wifi vous dites ?",
     "texte": "Merci est-ce que la connexion en wifi est compatible avec mon offre actuelle de box?"
+  },
+  {
+    "id": 49,
+    "titre": "Des chevaux connectés",
+    "texte": "L'abonné indique que son fils à reçu une carte sim pour des chevaux et que cela ne fonctionne pas.\nIl demande une intervention pour résoudre le problème et souhaite être contacté."
   }
 ]
